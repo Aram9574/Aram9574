@@ -19,4 +19,4 @@ Bienvenido a mi perfil de GitHub. Soy médico colombiano residente en Madrid y e
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/azakzuk_md) o escribirme a mi correo profesional. ¡Estoy abierto a colaborar y a aprender juntos!
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/azakzuk-md/) o escribirme a mi correo profesional. ¡Estoy abierto a colaborar y a aprender juntos!
