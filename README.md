@@ -7,7 +7,7 @@ Bienvenido a mi perfil de GitHub. Soy médico colombiano residente en Madrid y e
 ## Repositorios Destacados
 
 - **[Aprendizaje_Modelos_IA](https://github.com/Aram9574/Aprendizaje_Modelos_IA)** – Experimentos de aprendizaje automático orientados a la salud, incluyendo análisis exploratorio, selección de variables, evaluación clínica y modelos explicables.
-- **[Proyectos_Personales](https://github.com/Aram9574/Proyectos_Personales)** – Prototipos y aplicaciones desarrolladas con Streamlit, FastAPI y otros marcos. De la idea al MVP.
+- **[Proyectos_Personales](https://github.com/Aram9574/Proyectos_Personales)** – Prototipos y aplicaciones desarrolladas.
 - **[CS50P_Ejercicios](https://github.com/Aram9574/CS50P_Ejercicios)** – Ejercicios y apuntes del curso CS50P para seguir mejorando mis habilidades en Python.
 
 ## Sobre mí
@@ -19,4 +19,4 @@ Bienvenido a mi perfil de GitHub. Soy médico colombiano residente en Madrid y e
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/Aram9574) o escribirme a mi correo profesional. ¡Estoy abierto a colaborar y a aprender juntos!
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/azakzuk_md) o escribirme a mi correo profesional. ¡Estoy abierto a colaborar y a aprender juntos!
