@@ -1,0 +1,32 @@
+version: "3.9"
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: app
+    ports:
+      - "5432:5432"
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+  api:
+    build: ../api
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000
+    environment:
+      DATABASE_URL: postgresql+psycopg://user:password@db:5432/app
+      REDIS_HOST: redis
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "8000:8000"
+  worker:
+    build: ../ai-service
+    command: python worker.py
+    environment:
+      REDIS_HOST: redis
+    depends_on:
+      - redis
