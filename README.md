@@ -20,3 +20,15 @@ Bienvenido a mi perfil de GitHub. Soy médico colombiano residente en Madrid y e
 ## Contacto
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/azakzuk-md/) o escribirme a mi correo profesional. ¡Estoy abierto a colaborar y a aprender juntos!
+
+## Geriatric B2B MVP
+
+Este repositorio ahora incluye un MVP simplificado para un servicio multi-tenant para centros geriátricos con los siguientes módulos:
+
+- `api/`: Backend FastAPI con SQLAlchemy y Alembic.
+- `frontend/`: Aplicación Next.js con autenticación OIDC usando Auth0.
+- `ai-service/`: Microservicio de IA con Redis Queue.
+- `ops/`: Docker Compose para entorno de desarrollo.
+- `fhir/`: Servidor HAPI FHIR para pruebas de interoperabilidad.
+- `infra/`: Plantillas de Terraform para despliegue en GCP.
+- `docs/`: Documentación general.
