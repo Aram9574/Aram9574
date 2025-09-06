@@ -1,6 +1,6 @@
 <!-- Perfil README para Aram9574 -->
 
-# ¡Hola, soy Aram!
+# ¡Hola, soy Alejandro!
 
 Bienvenido a mi perfil de GitHub. Soy médico colombiano residente en Madrid y estudiante de un Máster en Aplicación de la Inteligencia Artificial en Sanidad. Aquí encontrarás mis proyectos y experimentos en el cruce entre medicina, innovación y ciencia de datos.
 
