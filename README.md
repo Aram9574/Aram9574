@@ -1,16 +1,25 @@
-## Hi there 👋
+## Alejandro Zakzuk — Médico & Clinical AI
 
-<!--
-**Aram9574/Aram9574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Médico con más de 6 años de práctica hospitalaria real, 
+especializado en IA aplicada a salud y transformación digital sanitaria.
 
-Here are some ideas to get you started:
+### Stack
+`Python` `Scikit-learn` `XGBoost` `NLP` `FHIR/HL7` `SQL` `Streamlit` `Hugging Face`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos destacados
+
+| Proyecto | Descripción | Tech |
+|---|---|---|
+| [DiabetesData](https://github.com/Aram9574/DiabetesData) | Clasificación de riesgo metabólico · CDC BRFSS · 253.680 registros · [Demo en Hugging Face](https://huggingface.co/spaces/aram1585/diabetes-brfss-cdss) | Python · XGBoost · Streamlit |
+| TFM CEMP | Detección temprana condición metabólica · AUC-ROC 0.942 · XAI/SHAP · EU AI Act | Random Forest · SHAP |
+| [GeriCare](https://github.com/Aram9574/GeriCare) | ERP sanitario con estándares HL7/FHIR para gestión clínica | Python · Django · FHIR |
+
+### Formación
+- Máster en IA Aplicada a Sanidad — CEMP (2025-2026)
+- Máster en Salud Digital/eHealth — Universidad Europea de Madrid (2025-2026)
+- AI in Healthcare Specialization — Stanford University
+
+### Contacto
+[alejandrozakzuk.com](https://alejandrozakzuk.com) · 
+[LinkedIn](https://www.linkedin.com/in/alejandrozakzuk-ia-salud-digital/) · 
+[Hugging Face](https://huggingface.co/aram1585)
