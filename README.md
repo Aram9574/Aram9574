@@ -10,7 +10,7 @@ especializado en IA aplicada a salud y transformación digital sanitaria.
 
 | Proyecto | Descripción | Tech |
 |---|---|---|
-| [DiabetesData](https://github.com/Aram9574/DiabetesData) | Clasificación de riesgo metabólico · CDC BRFSS · 253.680 registros · [Demo en Hugging Face](https://huggingface.co/spaces/aram1585/diabetes-brfss-cdss) | Python · XGBoost · Streamlit |
+| [diabetes-brfss-cdss](https://github.com/Aram9574/DiabetesData) | Clasificación de riesgo metabólico · CDC BRFSS · 253.680 registros · [Demo en Hugging Face](https://huggingface.co/spaces/aram1585/diabetes-brfss-cdss) | Python · XGBoost · Streamlit |
 | TFM CEMP | Detección temprana condición metabólica · AUC-ROC 0.942 · XAI/SHAP · EU AI Act | Random Forest · SHAP |
 | [GeriCare](https://github.com/Aram9574/GeriCare) | ERP sanitario con estándares HL7/FHIR para gestión clínica | Python · Django · FHIR |
 
