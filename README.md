@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Soy médico graduado de la Universidad del Rosario (Colombia) con práctica clínica real en urgencias y medicina interna. Actualmente en Madrid, cursando dos másteres simultáneos: **IA Aplicada a Sanidad (CEMP)** y **Salud Digital/eHealth (Universidad Europea)**.
+Soy médico graduado de la Universidad del Rosario (Colombia) con práctica clínica real en urgencias y medicina interna. Actualmente en Madrid, con máster en **IA Aplicada a Sanidad (CEMP)** y **Salud Digital/eHealth (Universidad Europea)**.
 
 Mi diferenciador no es solo saber programar — es entender el problema clínico antes de escribir la primera línea de código.
 
