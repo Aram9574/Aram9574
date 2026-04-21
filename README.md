@@ -44,7 +44,7 @@ Puente entre criterio médico, equipos técnicos y compra pública en proyectos 
 ### ClinAI Classifier — Clasificador EU AI Act para IA en salud
 
 [![Demo](https://img.shields.io/badge/🤗_Demo-Live-FFD21E?style=flat)](https://huggingface.co/spaces/aram1585/clinai-classifier)
-[![Repo](https://img.shields.io/badge/Repo-clinai--classifier-181717?style=flat&logo=github)](https://github.com/aramzakzuk/clinai-classifier)
+[![Repo](https://img.shields.io/badge/Repo-clinai--classifier-181717?style=flat&logo=github)](https://github.com/Aram9574/clinai-classifier)
 
 Herramienta open source que clasifica sistemas de IA sanitarios bajo el **EU AI Act (Reglamento 2024/1689)**. Pipeline de dos etapas: agente Claude Sonnet 4.5 + motor de reglas estático con invariante de no-degradación. Devuelve nivel de riesgo, categorías del Anexo III, flags del Artículo 5, base legal y flag SaMD. Genera informe PDF listo para auditoría.
 
